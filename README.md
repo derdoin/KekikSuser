@@ -22,6 +22,7 @@ python basla.py
 
 *Benimle iletişime geçmek isterseniz, **Telegram**'dan mesaj göndermekten çekinmeyin;* [@keyiflerolsun](https://t.me/keyiflerolsun)
 
+(https://dashboard.heroku.com/new?template=https://github.com/derdoin/KekikSuser)
 ##
 
 > **[@KekikAkademi](https://t.me/KekikAkademi)** *için yazılmıştır..*
