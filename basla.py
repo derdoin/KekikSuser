@@ -57,3 +57,4 @@ def acilis_sayfasi():
 
 if __name__ == '__main__':
     acilis_sayfasi()
+    
